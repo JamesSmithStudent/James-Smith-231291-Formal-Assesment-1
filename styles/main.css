@@ -105,3 +105,30 @@ button {
     position: relative;
     bottom: -100px;
 }
+
+.hero-image2 {
+    height: 500px; 
+    position: relative;
+    margin-bottom: 100px;
+    border-radius: 50px;
+}
+
+.accordion{
+width: 200px;
+margin-top: 20px;
+}
+
+.accordion-button{
+  color: #18382B;
+  background-color: lightgreen;
+}
+
+.table{
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.src1{
+    width: 200px;
+    height: 200px;
+}
